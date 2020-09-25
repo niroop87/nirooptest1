@@ -1,4 +1,3 @@
 This is commit1 - GIT COMMIT1
 This is commit2 - GIT COMMIT2
-This is commit3 - GIT COMMIT13
-This is commit4 - GIT COMMIT
+This is commit3 - GIT COMMIT3
